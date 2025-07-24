@@ -131,4 +131,14 @@ export default {
     background-color: #dfdfdf;
     font-size: 1.3rem;
 }
+
+@media screen and (max-width: 768px) {
+    .Calendario{
+        width: 470px;
+    }
+
+    .data{
+        padding: 0;
+    }
+}
 </style>
