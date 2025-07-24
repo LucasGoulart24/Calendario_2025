@@ -85,7 +85,8 @@ export default {
     width: 550px;
     padding: 10px;
     border-radius: 5px;
-    background-color: #eee;
+    border: 1px solid #ccc;
+    background-color: #fff;
     box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
 }
 
@@ -118,8 +119,6 @@ export default {
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 5px;
-    background-color: #ccc;
 }
 
 .dia span{
@@ -129,7 +128,7 @@ export default {
     align-items: center;
     justify-content: center;
     border-radius: 5px;
-    background-color: #ccc;
+    background-color: #dfdfdf;
     font-size: 1.3rem;
 }
 </style>
