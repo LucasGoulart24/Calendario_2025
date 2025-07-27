@@ -28,6 +28,6 @@ body{
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background-color: lightblue;
+  background: linear-gradient(to top, #5fc52e, #6eee87);
 }
 </style>

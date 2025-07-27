@@ -128,7 +128,7 @@ export default {
     align-items: center;
     justify-content: center;
     border-radius: 5px;
-    background-color: #dfdfdf;
+    background-color: #e5e5e5;
     font-size: 1.3rem;
 }
 
